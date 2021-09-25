@@ -1,0 +1,26 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+.body {
+    max-width: 640px;
+    margin: auto;
+  }
+  .BookReservation {
+      display: flex;
+      margin-top: 12px;
+    }
+    
+  .BookReservation > div {
+     margin-left: 12px;
+    }
+    .BookReservation input {
+      display: block;
+      margin: 6px 0;
+    }
+    .BookReservation button {
+      margin: 4px 2px;
+    }
+  
+     img {
+      max-width: 200px;
+    }
+    
+    

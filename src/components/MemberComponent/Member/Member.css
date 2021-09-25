@@ -1,0 +1,25 @@
+.body {
+    max-width: 640px;
+    margin: auto;
+  }
+  .Member {
+      display: flex;
+      margin-top: 12px;
+    }
+    
+  .Member > div {
+     margin-left: 12px;
+    }
+    .Member input {
+      display: block;
+      margin: 6px 0;
+    }
+    .Member button {
+      margin: 4px 2px;
+    }
+  
+     img {
+      max-width: 200px;
+    }
+    
+    

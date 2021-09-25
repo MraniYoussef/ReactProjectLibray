@@ -1,0 +1,25 @@
+.body {
+  max-width: 640px;
+  margin: auto;
+}
+.Employee {
+    display: flex;
+    margin-top: 12px;
+  }
+  
+.Employee > div {
+   margin-left: 12px;
+  }
+  .Employee input {
+    display: block;
+    margin: 6px 0;
+  }
+  .Employee button {
+    margin: 4px 2px;
+  }
+
+   img {
+    max-width: 200px;
+  }
+  
+  

@@ -1,0 +1,25 @@
+.body {
+  max-width: 640px;
+  margin: auto;
+}
+.Subscription {
+    display: flex;
+    margin-top: 12px;
+  }
+  
+.Subscription > div {
+   margin-left: 12px;
+  }
+  .Subscription input {
+    display: block;
+    margin: 6px 0;
+  }
+  .Subscription button {
+    margin: 4px 2px;
+  }
+
+   img {
+    max-width: 200px;
+  }
+  
+  
